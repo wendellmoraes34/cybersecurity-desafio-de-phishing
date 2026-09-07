@@ -17,4 +17,4 @@ Phishing para captura de senhas do facebook
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
+OBS: Atualmente a ferramenta nao consegue mais clonar o facebook por este metodo, mesmo seguindo todos os passos
